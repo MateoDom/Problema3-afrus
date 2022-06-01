@@ -1,0 +1,15 @@
+{
+  "name": "problema-3-afrus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problema3.js",
+  "scripts": {
+    "start": "nodemon problema3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
